@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: trackside_p1   22-Feb-2015  15:50:11
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : TopLayer to BottomLayer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        20mil (0.508mm)          6                16.00 Inch (406.45 mm)
+T2        28mil (0.7112mm)         32               26.04 Inch (661.35 mm)
+T3        35mil (0.889mm)          33               20.37 Inch (517.35 mm)
+T4        38mil (0.9652mm)         13               21.66 Inch (550.11 mm)
+T5        42mil (1.0668mm)         15               15.22 Inch (386.63 mm)
+T6        110mil (2.794mm)         2                14.64 Inch (371.83 mm)
+T7        128.5mil (3.2639mm)      2                15.28 Inch (388.09 mm)
+---------------------------------------------------------------------------
+Totals                             103              129.20 Inch (3281.80 mm)
+
+Total Processing Time : 00:00:00
